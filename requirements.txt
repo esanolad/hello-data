@@ -1,0 +1,9 @@
+# pytest
+pylint
+# jupyter
+# pytest-cov
+# andas
+# nbval
+# click
+# flask
+# requests
